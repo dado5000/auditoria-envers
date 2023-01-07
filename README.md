@@ -1,5 +1,5 @@
-# auditoria-envers
-Auditoria de dados com Envers
+# Auditoria de dados com Hibernate Envers
+Aplicação java spring boot rest api
 
 Projeto básico demostrando como auditar tabelas do banco de dados com hibernate Envers
 * Java 11
